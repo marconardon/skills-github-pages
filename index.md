@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 ---
-#This is a H1 to confirm the site is live.
+# This is a my blog made with Github Pages and Jekyll.
 Check the documentation for details.
